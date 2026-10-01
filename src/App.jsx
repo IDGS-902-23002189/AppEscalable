@@ -1,4 +1,4 @@
-import Products from "./pages/Products/Products";
+import Products from "./pages/products/Products";
 import Navbar from "./components/Navbar";
 
 function App() {
